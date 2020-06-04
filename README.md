@@ -33,7 +33,7 @@ For the purpose of waste segregation we have simulated the working the working o
 
 #### Screenshots of the simulation of Bins
 
-<img src = "https://github.com/shlokashah/SEGRo/blob/documentation/docs/5.png" style="width=600px; height=800px;">
+<img src = "https://github.com/shlokashah/SEGRo/blob/documentation/docs/5.png" height="600" width="800">
 
 ### Route Optimization
 For route optimization of the truck for waste collection we use the TSP algorithm.

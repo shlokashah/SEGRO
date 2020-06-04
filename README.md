@@ -4,8 +4,8 @@ Considering the current scenario in our country, we see that waste disposal, seg
 This application provides for an end to end solution for waste classification,collection and disposal.
 
 ### Technologies Used
-1)Django Rest Framework (API for backend)
-2)Flutter (Mobile Application)
+1) Django Rest Framework (API for backend)
+2) Flutter (Mobile Application)
 3) Image Classification with CNN and YOLOv3
 
 ### Waste Classification
